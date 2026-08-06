@@ -5,19 +5,24 @@ Computer Vision
 ## What the project does
 AirCanvas is a real-time computer vision camera application controlled through hand gestures. The system uses a webcam to track a user's hand, recognize gestures, and trigger creative camera actions without using keyboard or mouse controls during normal interaction.
 
-Main features include:
-- Swipe left or right with the index finger to switch camera modes
-- Hold a thumbs-up gesture to start a photo countdown and capture an image
-- Show an open palm, then draw a triangle in the air to capture a photo with a random visual filter
-- Show an open palm, then draw a square in the air to split the current scene into movable photo pieces
-- Use a peace sign to open the sticker menu
-- Pinch to select, drag, move, place, or delete stickers and photo pieces
-- Use the on-screen trash icon to remove selected items
-- Pinch and hold the CLEAR button to reset the workspace
-- Pinch and hold the plus or minus buttons to zoom in or out
+Immersive Gestures🔥:
+- 👈👉  Swipe left/right → cycle through 5 camera modes (Photo, Portrait, Artistic, B&W, Cool)
+- 👍 Thumbs up → 3-second countdown & then captures a photo
+- ✋🔺 Open palm + triangle → captures a photo & randomly applies one of 7 artistic filters
+- ✋◽ Open palm + square → captures a photo & splits the scene into a draggable 4×4 grid
+- ✌️ Peace sign → opens a sticker menu (heart, smile, star, shark)
+- 🤏 Pinch + drag → move stickers or photo pieces anywhere you like
+- 🤏🗑️ Drag to trash can → delete stickers or photo pieces
+- 🤏🧹 Pinch + hold Clear button → reset the entire app
+- 🤏➕➖ Pinch + hold +/- buttons → zoom in and out
 
 Captured photos are saved automatically into project folders created by the program.
 
+<!-- ## Project Demo 
+
+<img src='https://github.com/user-attachments/assets/06de4c8d-e2da-47ed-9d59-ab28f6f58903' title='Demo' width='60%' height='auto' alt='Demo Video' />
+
+GIF created with Canva -->
 
 ## How to run the project
 1. Make sure Python is installed.
@@ -86,14 +91,3 @@ The program also creates these output folders automatically when run:
 - If the webcam does not open, make sure no other application is using the camera.
 - Press `Q` in the main camera window to close the application properly.
 - If gestures feel too sensitive or not sensitive enough, the timing and distance thresholds in `aircanvas_integrated.py` can be adjusted.
-
-## Gesture reference
-- Index finger swipe left/right: switch camera mode
-- Thumbs up: take a regular photo of whatever is currently being displayed
-- Open palm, then triangle: take a random-filter photo
-- Open palm, then square: split the scene into 16 movable pieces
-- Peace sign: open sticker menu
-- Pinch: select, drag, and place items
-- Drag item to trash and release: delete item
-- Pinch CLEAR for 3 seconds: reset workspace
-- Pinch plus/minus buttons: zoom in or out
