@@ -3,7 +3,7 @@
 Computer Vision
 
 ## What the project does
-AirCanvas is a real-time computer vision camera application controlled through hand gestures. The system uses a webcam to track a user's hand, recognize gestures, and trigger creative camera actions without using keyboard or mouse controls during normal interaction.
+AirCanvas is a real-time creative camera application controlled through hand gestures. The system uses a webcam to track a user's hand, recognize gestures, and trigger creative camera actions without using keyboard or mouse controls during normal interaction.
 
 Immersive Gestures🔥:
 - 👈👉  Swipe left/right → cycle through 5 camera modes (Photo, Portrait, Artistic, B&W, Cool)
@@ -18,11 +18,18 @@ Immersive Gestures🔥:
 
 Captured photos are saved automatically into project folders created by the program.
 
-<!-- ## Project Demo 
+<!-- ## Project Demos
 
-<img src='https://github.com/user-attachments/assets/06de4c8d-e2da-47ed-9d59-ab28f6f58903' title='Demo' width='60%' height='auto' alt='Demo Video' />
+<img src='https://github.com/user-attachments/assets/06de4c8d-e2da-47ed-9d59-ab28f6f58903' title='Demo' width='60%' height='auto' alt='Demo Video 1' />
 
-GIF created with Canva -->
+Demo Video 1: Demonstrating the Sticker menu (peace sign gesture), square gesture, delete button, swipe gesture, thumbs up gesture, and clear button.
+
+<img src='https://github.com/user-attachments/assets/06de4c8d-e2da-47ed-9d59-ab28f6f58903' title='Demo' width='60%' height='auto' alt='Demo Video 1' />
+
+Demo Video 2: Demonstrating the swipe gesture, thumbs up gesture, zoom in & zoom out buttons, triangle gesture, and clear button.
+
+
+GIFs created with Canva -->
 
 ## How to run the project
 1. Make sure Python is installed.
