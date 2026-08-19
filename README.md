@@ -18,18 +18,41 @@ Immersive Gestures🔥:
 
 Captured photos are saved automatically into project folders created by the program.
 
-<!-- ## Project Demos
+## Project Demos
 
-<img src='https://github.com/user-attachments/assets/06de4c8d-e2da-47ed-9d59-ab28f6f58903' title='Demo' width='60%' height='auto' alt='Demo Video 1' />
+<br>
 
-Demo Video 1: Demonstrating the Sticker menu (peace sign gesture), square gesture, delete button, swipe gesture, thumbs up gesture, and clear button.
+<img width="60%" height="auto" alt="AirCanva Demo 1" src="https://github.com/user-attachments/assets/4d720759-2803-4dea-bc44-6e8951813dd2" />
+<br>Demo Video 1: Demonstrating swipe gesture (change camera mode)
 
-<img src='https://github.com/user-attachments/assets/06de4c8d-e2da-47ed-9d59-ab28f6f58903' title='Demo' width='60%' height='auto' alt='Demo Video 1' />
+<br><br>
 
-Demo Video 2: Demonstrating the swipe gesture, thumbs up gesture, zoom in & zoom out buttons, triangle gesture, and clear button.
+<img width="60%" height="auto" alt="AirCanva Demo 2" src="https://github.com/user-attachments/assets/0bfffb2d-4beb-4cee-af22-857d32374f5d" />
+<br>Demo Video 2: Demonstrating thumbs up gestures (capture photo)
 
+<br><br>
 
-GIFs created with Canva -->
+<img width="60%" height="auto" alt="AirCanvas Demo 3" src="https://github.com/user-attachments/assets/d6bce0e2-b3e0-412e-888f-99982de11772" />
+<br>Demo Video 3: Demonstrating zoom in, zoom out, and clear buttons
+
+<br><br>
+
+<img width="60%" height="auto" alt="AirCanvas Demo 4" src="https://github.com/user-attachments/assets/890a1858-783d-4daa-8cea-86ecd14afb6b" />
+<br>Demo Video 4: Demonstrating triangle gesture (random artistic filter)
+
+<br><br>
+
+<img width="60%" height="auto" alt="AirCanvas Demo 5 (2)" src="https://github.com/user-attachments/assets/0be5e358-bab5-406f-987a-6ef826c02f25" />
+<br>Demo Video 5: Demonstrating peace sign gesture (sticker menu) and delete button
+
+<br><br>
+
+<img width="60%" height="auto" alt="AirCanvas Demo 6" src="https://github.com/user-attachments/assets/495be895-d3d2-46c8-b5c3-e03515f75134" />
+<br>Demo Video 6: Demonstrating the square gesture (image segmentation), delete button, and thumbs up gesture
+
+<br>
+GIFs created with Canva
+
 
 ## How to run the project
 1. Make sure Python is installed.
